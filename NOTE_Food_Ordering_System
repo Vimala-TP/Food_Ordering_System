@@ -1,0 +1,5 @@
+->We have two files ie User file and Module file.
+->This Food ordering system will have the list of food items followed by cost.
+->The user has to select the food item with quantity as there requirement and then after selecting the items they need to select the Display Bill Option.
+->The bill will be displayed with all the item name,item quantity,item cost and total cost with GST.
+->The Bill is also be loaded into the text file with file name Bill this is done by using File Handling.
